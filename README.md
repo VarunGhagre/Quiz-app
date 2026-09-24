@@ -1,6 +1,6 @@
 # Quiz App
 
-A modern and interactive Quiz Application that allows users to test their knowledge through multiple-choice questions
+A modern and interactive Quiz Application that allows users to test their knowledge through multiple-choice questions.
 
 ## 🚀 Features
 
